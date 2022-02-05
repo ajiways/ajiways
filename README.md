@@ -1,16 +1,15 @@
-### Hi there 👋
+### I'm a beginner backend developer and that's my github page!
 
-<!--
-**ajiways/ajiways** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and tools:
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/-nodejs-323330?style=for-the-badge&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=for-the-badge&logo=typescript)
+![expressjs](https://img.shields.io/badge/-expressjs-323330?style=for-the-badge&logo=express)
+![nestjs](https://img.shields.io/badge/-nestjs-323330?style=for-the-badge&logo=nestjs)
+![docker](https://img.shields.io/badge/-docker-323330?style=for-the-badge&logo=docker)
+![sql](https://img.shields.io/badge/-sql-323330?style=for-the-badge&logo=mysql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contact me in Gmail: ajiwayswc@gmail.com or by using Telegram: @kswbtw
