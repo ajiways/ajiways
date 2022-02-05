@@ -10,6 +10,10 @@
 ![docker](https://img.shields.io/badge/-docker-323330?style=for-the-badge&logo=docker)
 ![sql](https://img.shields.io/badge/-sql-323330?style=for-the-badge&logo=mysql)
 
+### Some experience with db's: Postgresql and mongodb (typeorm and mongoose)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+(I just like how this stats block looks)
 
 ### Contact me in Gmail: ajiwayswc@gmail.com or by using Telegram: @kswbtw
