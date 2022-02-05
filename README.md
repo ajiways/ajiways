@@ -1,5 +1,7 @@
 ### I'm a beginner backend developer and that's my github page!
 
+<hr>
+
 ### Languages and tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript)
@@ -12,8 +14,11 @@
 
 ### Some experience with db's: Postgresql and mongodb (typeorm and mongoose)
 
+<hr>
+(I just like how this stats block looks)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-(I just like how this stats block looks)
+<hr>
 
 ### Contact me in Gmail: ajiwayswc@gmail.com or by using Telegram: @kswbtw
