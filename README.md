@@ -15,9 +15,10 @@
 ### Some experience with db's: Postgresql and mongodb (typeorm and mongoose)
 
 <hr>
-(I just like how this stats block looks)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+(I just like how this stats block looks)
 
 <hr>
 
