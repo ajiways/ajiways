@@ -15,10 +15,13 @@
 ### Some experience with db's: Postgresql and mongodb (typeorm and mongoose)
 
 <hr>
-<div>
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula">
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiways&langs_count=8&layout=compact&theme=dracula">
-</div>
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiways&langs_count=8&layout=compact&theme=dracula"/></td>
+  </tr>
+</table>
 
 <br>
 (I just like how this stats block looks)
