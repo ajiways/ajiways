@@ -15,9 +15,11 @@
 ### Some experience with db's: Postgresql and mongodb (typeorm and mongoose)
 
 <hr>
+<div style="display: flex; flex-direction: row">
+    <img style="width:48%" src="https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiways&langs_count=8&layout=compact&theme=dracula">
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajiways&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 (I just like how this stats block looks)
 
