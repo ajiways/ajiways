@@ -15,9 +15,9 @@
 ### Some experience with db's: Postgresql and mongodb (typeorm and mongoose)
 
 <hr>
-<div style="display: flex; flex-direction: row">
-    <img style="max-width: 53%" src="https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula">
-    <img style="heigth: 157px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiways&langs_count=8&layout=compact&theme=dracula">
+<div style="display: flex; flex-direction: row; max-heigth: 400px">
+    <img src="https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiways&langs_count=8&layout=compact&theme=dracula">
 </div>
 
 <br>
