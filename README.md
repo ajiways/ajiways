@@ -16,8 +16,8 @@
 
 <hr>
 <div style="display: flex; flex-direction: row">
-    <img src="https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiways&langs_count=8&layout=compact&theme=dracula">
+    <img style="max-width: 53%" src="https://github-readme-stats.vercel.app/api?username=ajiways&show_icons=true&theme=dracula">
+    <img style="heigth: 157px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiways&langs_count=8&layout=compact&theme=dracula">
 </div>
 
 <br>
