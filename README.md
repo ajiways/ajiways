@@ -1,4 +1,4 @@
-### I'm a beginner backend developer and that's my github page!
+### I'm a junior backend developer and that's my github page!
 
 <hr>
 
@@ -12,7 +12,7 @@
 ![docker](https://img.shields.io/badge/-docker-323330?style=for-the-badge&logo=docker)
 ![sql](https://img.shields.io/badge/-sql-323330?style=for-the-badge&logo=mysql)
 
-### Some experience with db's: Postgresql and mongodb (typeorm and mongoose)
+### Well experienced with db's: Postgresql and mongodb (typeorm and mongoose)
 
 <hr>
 
