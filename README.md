@@ -1,4 +1,4 @@
-### I'm a junior backend developer and that's my github page!
+### I'm a Middle backend developer and that's my github page!
 
 <hr>
 
@@ -7,10 +7,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-nodejs-323330?style=for-the-badge&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=for-the-badge&logo=typescript)
-![expressjs](https://img.shields.io/badge/-expressjs-323330?style=for-the-badge&logo=express)
-![nestjs](https://img.shields.io/badge/-nestjs-323330?style=for-the-badge&logo=nestjs)
-![docker](https://img.shields.io/badge/-docker-323330?style=for-the-badge&logo=docker)
-![sql](https://img.shields.io/badge/-sql-323330?style=for-the-badge&logo=mysql)
+![ExpressJs](https://img.shields.io/badge/-expressjs-323330?style=for-the-badge&logo=express)
+![NestJs](https://img.shields.io/badge/-nestjs-323330?style=for-the-badge&logo=nestjs)
+![Docker](https://img.shields.io/badge/-docker-323330?style=for-the-badge&logo=docker)
+![SQL](https://img.shields.io/badge/-sql-323330?style=for-the-badge&logo=mysql)
 
 ### Well experienced with db's: Postgresql and mongodb (typeorm and mongoose)
 
